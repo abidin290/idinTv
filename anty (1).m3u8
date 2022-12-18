@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="天映频道" tvg-logo="" group-title="BACKUP",天映频道
+#EXTINF:-1 tvg-id="" tvg-name="idin bola final" tvg-logo="" group-title="BACKUP",天映频道
 https://vkvsd79.mycdn.me/hls/3184360295137.m3u8/sig/HXFEDUXcfEU/srcIp/82.130.183.156/urls/45.136.22.69/expires/1671832775779/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/4099394644961/id/3184360295137/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gteat Times 大时代" tvg-logo="" group-title="BACKUP",Gteat Times 大时代
 http://w.nasvpn.xyz:8080/live/saya/saya/16569.ts
