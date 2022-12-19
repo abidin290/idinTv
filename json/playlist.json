@@ -31,6 +31,10 @@
     {
       "id": 7,
       "name": "Olahraga"
+    },
+    {
+      "id": 8,
+      "name": "world"
     }
   ],
   "channels": [
@@ -342,7 +346,7 @@
     {
       "cid": 2,
       "name": "HBO",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/1197019186?ticket=E20CE4FFE9600A12851300CCFE97AAD81D0B030D&profile=pass"
+      "stream_url": "http://w.nasvpn.xyz:8080/live/saya/saya/7044.ts"
     },
     {
       "cid": 2,
@@ -378,6 +382,11 @@
       "cid": 6,
       "name": "I AM CHANNEL",
       "stream_url": "http://iamchannel.org:1935/tes/1/chunklist.m3u8"
+    },
+    {
+      "cid": 8,
+      "name": "IN WILD",
+      "stream_url": "http://w.nasvpn.xyz:8080/live/saya/saya/7044.ts"
     },
     {
       "cid": 0,
