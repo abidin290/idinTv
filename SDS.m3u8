@@ -6,11 +6,11 @@
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://rcdn.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8?auth_key=1716390929-3bf86fbc3c813c5374ed66f31d4aefc3-0-7911500a3ee036a6819bcc1d9ca188e1
 
-#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="RCTI.id" tvg-logo="https://i.ibb.co/6m0nVYg/RCTI.png",RCTI
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="RCTI.id" tvg-logo="https://i.ibb.co/6m0nVYg/RCTI.png",SCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-http://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTVLCOPT:http-referrer=	https://www.vidio.com
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_204_240p/hdntl=exp=1716388062~acl=%2f*~id=allUsers~data=hdntl~hmac=9b7c5660bd944cbf1b1aa99434f95d4cce65d185fe9e30db485b20f255c6b4aa/index.m3u8
 
 #EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="MNCTV.id" tvg-logo="https://i.ibb.co/ZV0HXcS/MNCTV-logo.png",MNCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
