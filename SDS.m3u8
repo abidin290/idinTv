@@ -7,8 +7,8 @@
 https://rcdn.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8?auth_key=1716390929-3bf86fbc3c813c5374ed66f31d4aefc3-0-7911500a3ee036a6819bcc1d9ca188e1
 
 #EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="RCTI.id" tvg-logo="https://i.ibb.co/6m0nVYg/RCTI.png",SCTV
-#EXTVLCOPT:http-referrer=	https://www.vidio.com
-	https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_204_720p/hdntl=exp=1716388478~acl=%2f*~id=24889614~data=hdntl~hmac=7f917f994d633f0b10311e85a1a938dbd672925a65184244ab21d12b287f28a2/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.vidio.com
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_204_720p/hdntl=exp=1716388478~acl=%2f*~id=24889614~data=hdntl~hmac=7f917f994d633f0b10311e85a1a938dbd672925a65184244ab21d12b287f28a2/index.m3u8
 
 #EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="MNCTV.id" tvg-logo="https://i.ibb.co/ZV0HXcS/MNCTV-logo.png",MNCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
