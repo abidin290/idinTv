@@ -1,293 +1,169 @@
-﻿#EXTM3U
-#EXTINF:-1  tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_net_big1.png" group-title="Local Channel",NET TV (Server 4)
-https://testfunctionlive.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
-#EXTINF:-1  tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_net_big1.png" group-title="Local Channel",NET TV (Unknown Server)
-http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/rcti.png" group-title="Local Channel",RCTI (Server 1)
-http://id8.indostreamingtv.com/live/tv66/index.m3u8
-#EXTINF:-1  tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/rcti.png" group-title="Local Channel",RCTI (Server 4)
-http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1  tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/mnctv.png" group-title="Local Channel",MNC TV (Server 1)
-http://id2.indostreamingtv.com/live/event/index.m3u8
-#EXTINF:-1  tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/mnctv.png" group-title="Local Channel",MNC TV (Server 4)
-http://202.80.222.171/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1  tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/gtv.png" group-title="Local Channel",GTV (Server 1)
-http://id6.indostreamingtv.com/live/tv1/index.m3u8
-#EXTINF:-1  tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/gtv.png" group-title="Local Channel",GTV (Server 4)
-http://202.80.222.174:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1  tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_sctv_big1.png" group-title="Local Channel",SCTV (Server 1)
-https://etslive-2-vidio-com.akamaized.net/live/204/master.m3u8?auth=Q2ZJVFo5akNEK1FrT0graHJBZkprcitiR2ZRWStZbE9sQVU4TDFUNlVrNEgxS00vTDVJekdCNlpaN0E5NU5yNTV6eS83eVEyWitORW9PTjdaTE1jUEJ0eHIrZGYwdWQwV09PY3g0L2Z5Q3FXOGlIT2lnb0IzeU95eGw0NXJBVXdseHJ0NjR0Ty9KMEl3VnV2SlpPTlpyd3Rtc0txR2pxbnZJN2gwU3Y0Z05LSWdacUZ4ZWd3ZytmRXNINmJJeDFRWXhNVCtuSnJwdkIwOGdIY0JnYWNabDdHVys4bjBRdlVSVUNuTUhyQ3l1cjZnWXFLaTJNbHdOelB0QjJ5eTc4RTIrQ0NWU3FjbHYxamtkNlduczhSN1RzczFVWXFXN1VRZXp6MHB6ZWJDSUZVdHp2dEJNOHMrb0FMVFZNYytuR3RFMnhCYUFJRFVubzU5d3hZYk9sMFNMd0lGb2p6MkdOTzYya2o0QjdDS09MWjZtKzF2WXErby9Nazl5bHhtcHBmRDdDaUEvclBoekQ3YU5INXZKTndzdlZKOXQxYXhyN3V3aDJ6aE1LTmhMN0tTN0o1QklCbEZRbTBkdjlZSW0zSGRzYlMrTnIreUVGZDdNcGdqMTNxUE9yR0R1a3FjS2lJRXZNQms1aUVnUU9BVWtjaGFhT3o5T21RWUgzRU85Z29oSGhLVzdkT3huNGRxSXJDWEtpai9DcFRqTnFBT1UzU21CYlhjSWhaamVHdUtEZFcycEgvZzFhR2VxS0V0eTJCMXRiYmVrdGh3MEpISmZiL1I4Y1ZQM09ML09YRSsxamowQ0lPWXhCWkF1dVRYb3Q5YVI1dkZLS1dTZmpXckNKV3JKWnN1Z2dYd0VyTjVvY0pNOHI1MTN2MENleHZkMGFFV1pWV1dWcWg1TjNyTWVoQ3VweGI2cjVkTGtmK2VwQW5GQzZseDVSdWtJSmt3aFBjdUpXY2xCejBDa01HT093TjZJYWxWdXh5QWlSZjhtNDNXUW43cnZjWUQ2OSt4bm9pWnpnZjBReURnM09YV0g3Q2JNRUpKZz09&trace_id=e83344ceb58cb34b2fe3174458bd6fd7/2795635809012031071
-#EXTINF:-1  tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_sctv_big1.png" group-title="Local Channel",SCTV (Server 4)
-http://202.80.222.171/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1  tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_indosiar_big1.png" group-title="Local Channel",Indosiar (Server 1)
-http://id2.indostreamingtv.com/live/tv111/index.m3u8
-#EXTINF:-1  tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_indosiar_big1.png" group-title="Local Channel",Indosiar (Server 4)
-http://202.80.222.171/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1  tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_antv_big1.png" group-title="Local Channel",ANTV (Server 3)
-https://cdn-livetv1.metube.id/hls/antv.m3u8
-#EXTINF:-1  tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_antv_big1.png" group-title="Local Channel",ANTV (Server 4)
-http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1  tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_trans7_big1.png" group-title="Local Channel",Trans 7 (Server 1)
-http://id1.indostreamingtv.com/live/tv77/index.m3u8
-#EXTINF:-1  tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_trans7_big1.png" group-title="Local Channel",Trans 7 (Server 4)
-http://202.80.222.171/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1  tvg-logo="#EXTINF:-1 tvg-logo=" group-title="Local Channel",Trans TV (Server 1)
-http://id6.indostreamingtv.com/live/tv33/index.m3u8
-#EXTINF:-1  tvg-logo="#EXTINF:-1 tvg-logo=" group-title="Local Channel",Trans TV (Server 2)
-https://stream-01.sg1.dailymotion.com/sec(E-jzZRG7S4T1sGdliNQCuRxCOEdtIdmR_2etrXxp1gQ)/dm/3/x4nwi47/live.m3u8
-#EXTINF:-1  tvg-logo="#EXTINF:-1 tvg-logo=" group-title="Local Channel",Trans TV (Server 4)
-http://202.80.222.171/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1  tvg-logo="#EXTINF:-1 tvg-logo=" group-title="Local Channel",CNN Indonesia (Server 2)
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="#EXTINF:-1 tvg-logo=" group-title="Local Channel",CNBC Indonesia (Server 2)
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="#EXTINF:-1 tvg-logo=" group-title="Local Channel",Berita Satu (Server 2)
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-#EXTINF:-1  tvg-logo="#EXTINF:-1 tvg-logo=" group-title="Local Channel",TV One (server 1)
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
-#EXTINF:-1  tvg-logo="#EXTINF:-1 tvg-logo=" group-title="Local Channel",TV One (Server 2)
-https://stream-02.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybAifjxsnViQ4LzVKt3E7SHY)/dm/3/x619221/live.m3u8
-#EXTINF:-1  tvg-logo="#EXTINF:-1 tvg-logo=" group-title="Local Channel",TV One (Server 4)
-http://202.80.222.171/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1  tvg-logo="#EXTINF:-1 tvg-logo=" group-title="Local Channel",Metro TV (Server 2a)
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="#EXTINF:-1 tvg-logo=" group-title="Local Channel",Metro TV (Server 2b)
-https://stream-04.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCSwQkF9xUuxA9ObMMeB9bhP0)/dm/3/x75p70w/live.m3u8
-#EXTINF:-1  tvg-logo="#EXTINF:-1 tvg-logo=" group-title="Local Channel",Kompas TV (Server 2a)
-https://stream-02.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G4WrnEHTxLsr92PW7w3Lhl0)/dm/3/x6pz4sa/live.m3u8
-#EXTINF:-1  tvg-logo="#EXTINF:-1 tvg-logo=" group-title="Local Channel",Kompas TV (Server 2b)
-http://43.245.183.170/kompastv/live.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="#EXTINF:-1 tvg-logo=" group-title="Local Channel",Kompas TV (Server 4)
-http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1  tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/inews.png" group-title="Local Channel",iNews (Server 4)
-http://202.80.222.171/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,Al Kass Sports 2
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-
-#EXTINF:-1,Al Kass Sports 3
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-
-#EXTINF:-1,Al Kass Sports 4
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-
-#EXTINF:-1,Al Kass Sports 5
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-
-#EXTINF:-1,Arryadia
-http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-
-#EXTINF:-1,Arryadia
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-
-#EXTINF:-1,Arryadia
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-
-#EXTINF:-1,Arryadia
-http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=arriadia
-
-#EXTINF:-1,ATG
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-
-#EXTINF:-1,Bek Sports East
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-
-#EXTINF:-1,Bek Sports West
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-
-#EXTINF:-1,CCTV 5 HD
-http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8
-
-#EXTINF:-1,D Sport
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
-
-#EXTINF:-1,DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-
-#EXTINF:-1,DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-
-#EXTINF:-1,DSport
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-
-#EXTINF:-1,Edge Sports
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-
-#EXTINF:-1,Esport Club
-http://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b1296000.m3u8
-
-#EXTINF:-1,Fight Sports
-http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
-
-#EXTINF:-1,Fight Sports
-http://210.210.155.35/uq2663/h/h05/01.m3u8
-
-#EXTINF:-1,Flow Sports 1
-http://161.0.157.5/PLTV/88888888/224/3221226899/01.m3u8
-
-#EXTINF:-1,Flow Sports 1
-http://161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8
-
-#EXTINF:-1,Flow Sports 1
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-
-#EXTINF:-1,Flow Sports 1
-http://161.0.157.9/PLTV/88888888/224/3221226899/04.m3u8
-
-#EXTINF:-1,FOX Sport HD 1
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-
-#EXTINF:-1,GOLTV
-http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
-
-#EXTINF:-1,Horizon Sports
-https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
-
-#EXTINF:-1,IRIB Varzesh
-https://livetv.persianleague.com/live/varzesh/chunks.m3u8
-
-#EXTINF:-1,LaLiga TV
-https://dl.dropbox.com/s/wfh6jphfd9swryb/spanyol.m3u8?dl=0
-
-#EXTINF:-1,MOTOR SPORT
-http://45.58.62.92:8084
-
-#EXTINF:-1,NewTV Super sports HD
-http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
-
-#EXTINF:-1,Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
-
-#EXTINF:-1,Olympic Channel (HD)
-http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-
-#EXTINF:-1,Olympic Channel (SD)
-http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?fluxustv.m3u8
-
-#EXTINF:-1,Olympic Channel (UHD)
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
-
-#EXTINF:-1,Real Madrid
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
-
-#EXTINF:-1,Real Madrid HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,Real Madrid HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-
-#EXTINF:-1,Real Madrid TV
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-
-#EXTINF:-1,Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&amp;rebase=on?iptvgratis?chile.m3u8
-
-#EXTINF:-1,REAL MADRID TV
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,REAL MADRID TV ESP
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0450_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,Red Bull TV
-http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
-
-#EXTINF:-1,Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-
-#EXTINF:-1,Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-
-#EXTINF:-1,Red Bull TV
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-
-#EXTINF:-1,Red Bull TV
-https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8
-
-#EXTINF:-1,Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1,Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1,Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-
-#EXTINF:-1,RTSH Sport
-http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
-
-#EXTINF:-1,RTV Sport (San Marino)
-https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?fluxustv.m3u8
-
-#EXTINF:-1,Sony Ten 1 HD
-https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
-
-#EXTINF:-1,Sony Ten 2 HD
-https://dl.dropbox.com/s/frs8vbpd0gthf6s/badminton2.m3u8?dl=0
-
-#EXTINF:-1,Sportskool
-https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
-
-#EXTINF:-1,SportsMax
-http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
-
-#EXTINF:-1,SportsMax
-http://161.0.157.5/PLTV/88888888/224/3221226766/02.m3u8
-
-#EXTINF:-1,SportsMax
-http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
-
-#EXTINF:-1,Super Tennis
-http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-
-#EXTINF:-1,TDM Sports Macau
-http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
-
-#EXTINF:-1,Telecaribe Deportes
-http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
-
-#EXTINF:-1,Turkmen Спорт
-http://217.174.225.146/legacyhls/ch004_400/index.m3u8
-
-#EXTINF:-1,Türkmenistan Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
-
-#EXTINF:-1,Türkmenistan Sport
-http://217.174.225.146/legacyhls/ch004_720/index.m3u8
-
-#EXTINF:-1,Türkmenistan Sport
-https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
-
-#EXTINF:-1,Türkmenistan Sport
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-
-#EXTINF:-1,Varzesh TV
-http://51.158.66.44/hls/stream.m3u8
-
-#EXTINF:-1,Varzesh TV 2
-http://51.158.176.190/hls/stream.m3u8
-
-#EXTINF:-1,Varzesh TV 3
-http://51.15.236.137/hls/stream.m3u8
-
-#EXTINF:-1,VARZESH TV SPORT IR
-http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
-
-#EXTINF:-1,Viasat Sport
-http://persik.tv/stream/3602/287583/10249.m3u8
-
-#EXTINF:-1,World Of Free Sports TV
-https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
-
-#EXTINF:-1,Астрахань.Ru Sport
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Астрахань.Ru Sport
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-
-#EXTINF:-1,Астрахань.Ru Sport
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
-
-#EXTINF:-1,КТРК Спорт
-http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
-
-#EXTINF:-1,
-https://iptvx.one/epg/epg.xml.gz"
+```````` 1. CHANNEL | NASIONAL ````````
+#EXTINF:-1 group-logo="https://i.ibb.co/RyC0Q2J/Logo-TV-Group.png"
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="RCTI.id" tvg-logo="https://i.ibb.co/6m0nVYg/RCTI.png",RCTI+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rcdn.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8?auth_key=1716390929-3bf86fbc3c813c5374ed66f31d4aefc3-0-7911500a3ee036a6819bcc1d9ca188e1
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="RCTI.id" tvg-logo="https://i.ibb.co/6m0nVYg/RCTI.png",RCTI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+http://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="MNCTV.id" tvg-logo="https://i.ibb.co/ZV0HXcS/MNCTV-logo.png",MNCTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="GTV.id" tvg-logo="https://i.ibb.co/ngNsBF1/GTV-logo-2017.png",GTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+http://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="iNews.id" tvg-logo="https://i.ibb.co/Tw2GQPR/INews-TV-logo-svg.png",iNews
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+http://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="SCTV.id" tvg-logo="https://i.ibb.co/FJn7Zh8/sctv.png",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="Indosiar.id" tvg-logo="https://i.ibb.co/RzpsZf7/INDOSIAR.png",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR HD" tvg-logo="https://i.ibb.co/RzpsZf7/INDOSIAR.png" group-title="1. CHANNEL | NASIONAL", INDOSIAR HD
+https://hometv.web.id/nvchome/hBK3vdFLmB/indosiar/
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="OChannel.id" tvg-logo="https://i.ibb.co/7g6xWyh/Moji-blue.png",MOJI HD
+http://iptvtree.net:8080/c4596f70/c3848d92/298550
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="MentariTV.id" tvg-logo="https://i.ibb.co/crdZD4R/Mentari-TV-svg.png",MENTARI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="ANTV.id" tvg-logo="https://i.ibb.co/j66XwVp/antv.png",ANTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+http://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="tvOne.id" tvg-logo="https://i.ibb.co/xjZZB0D/tvone.png",TVONE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+http://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="TransTV.id" tvg-logo="https://i.ibb.co/k98q8Vw/TRANS-7.png",TRANS TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="TransTV.id" tvg-logo="https://i.ibb.co/k98q8Vw/TRANS-7.png",TRANS TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+http://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="Trans7.id" tvg-logo="https://i.ibb.co/pj87xf2/TRANS.png",TRANS 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="Trans7.id" tvg-logo="https://i.ibb.co/pj87xf2/TRANS.png",TRANS 7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+http://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="CNNIndonesia.id" tvg-logo="https://i.ibb.co/GsQXdbq/cnn.png",CNN Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="CNBCIndonesia.id" tvg-logo="https://i.ibb.co/R9gGXnF/cnbc.png",CNBC Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/XCLyZ87/Metro-TV-2000-svg.png",METRO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="MagnaChannel.id" tvg-logo="https://i.ibb.co/5MZqSWf/Magna-Channel.png",MAGNA CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="metroglobenetwork.id" tvg-logo="https://i.ibb.co/FzchKV8/metro-global.png",METRO GLOBE NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="bntv.id" tvg-logo="https://i.ibb.co/PtRjZTs/bn.png",BN CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="KompasTV.id" tvg-logo="https://i.ibb.co/ngZtSKh/KOMPAS-TV-2017-svg.png",KOMPAS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://kister.net/mpl/yt2m3u8?w=@kompastv
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="NET.id" tvg-logo="https://i.ibb.co/yR7yqLh/NET.png",NET.
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+http://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="NET.id" tvg-logo="https://i.ibb.co/yR7yqLh/NET.png",NET HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="RajawaliTV.id" tvg-logo="https://i.ibb.co/XLSZ0fj/Rajawali-Televisi.png",RTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="tvkesehatan.id" tvg-logo="https://i.ibb.co/TkyD92z/kesehatan.png",TV KESEHATAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="Digione.id" tvg-logo="https://i.ibb.co/HCWBfMJ/digi.png",DIGIONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="UseePrime.id" tvg-logo="https://i.ibb.co/dbmw5xg/useeprime.png",USEE PRIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="TVRParlemen.id" tvg-logo="https://i.ibb.co/q1FjtZ3/tvrparlemen.png",TVR PARLEMEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://wowza.dpr.go.id/golive/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="RRINET.id" tvg-logo="https://i.ibb.co/6rqS6ms/rrinet.png",RRI NET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://rrinet.rri.co.id/hls/live.m3u8
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="BeritaSatu.id" tvg-logo="https://i.ibb.co/4tVcKbG/BTV-Indonesia-logo.png",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="GPRTV.id" tvg-logo="https://i.ibb.co/FzfzS4f/Logo-GPRTV.png",GPR TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://kister.net/mpl/yt2m3u8?w=@GPRTVKominfo
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="IndonesianaTV.id" tvg-logo="https://i.ibb.co/xXPds1c/indonesiana-tv-6088.png",INDOSIANA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
+
+#EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="SEATODAY.id" tvg-logo="https://i.ibb.co/10DdsBd/SEA-Today-Indonesia-Logo.png",SEA TODAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-
