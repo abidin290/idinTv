@@ -11,7 +11,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_204_720p/hdntl
 
 #EXTINF:-1 group-title="1. CHANNEL | NASIONAL" tvg-id="MNCTV.id" tvg-logo="https://i.ibb.co/ZV0HXcS/MNCTV-logo.png",MNCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=	https://multidrm.core.verimatrixcloud.net/?deviceId=tuFvmBDFk4HdzasDErd3VklI7Xbp7YliC9MXcnGMdtKssVjWwGhsjQ
+#KODIPROP:inputstream.adaptive.license_key=https://multidrm.core.verimatrixcloud.net/?deviceId=tuFvmBDFk4HdzasDErd3VklI7Xbp7YliC9MXcnGMdtKssVjWwGhsjQ
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
