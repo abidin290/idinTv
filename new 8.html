@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scanner QR Code dan Barcode</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/instascan/1.0.0/instascan.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+        video {
+            width: 100%;
+            max-width: 400px;
+            border: 2px solid #333;
+        }
+        input {
+            width: 80%;
+            padding: 10px;
+            margin-top: 10px;
+            font-size: 16px;
+            text-align: center;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            margin-top: 10px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Scan QR Code / Barcode</h2>
+    <video id="preview"></video>
+    <br>
+    <input type="text" id="scan-result" placeholder="Hasil scan muncul di sini" readonly>
+    <br>
+    <button onclick="startScanner()">Mulai Scan</button>
+    <button onclick="stopScanner()">Hentikan Scan</button>
+
+    <script>
+        let scanner = new Instascan.Scanner({ video: document.getElementById('preview') });
+
+        scanner.addListener('scan', function(content) {
+            document.getElementById("scan-result").value = content;
+            alert("Scan berhasil: " + content);
+            stopScanner();
+        });
+
+        function startScanner() {
+            Instascan.Camera.getCameras().then(function(cameras) {
+                if (cameras.length > 0) {
+                    scanner.start(cameras[0]); // Gunakan kamera belakang
+                } else {
+                    alert("Tidak ada kamera yang terdeteksi!");
+                }
+            }).catch(function(e) {
+                console.error(e);
+                alert("Gagal mengakses kamera: " + e);
+            });
+        }
+
+        function stopScanner() {
+            scanner.stop();
+        }
+    </script>
+
+</body>
+</html>
